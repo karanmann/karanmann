@@ -10,13 +10,13 @@ Born and raised in India surrounded by MS-DOS and command lines 💻, living in 
  
  - 🌱 I’m currently learning: __HTML, CSS, JavaScript, focusing mainly on React__.	
  
- - 🌈 I also love to learn new talents!
+ - 🌈 I also love to travel especially Road Trips!
  
  - 👨‍🍳 I am a classically trained chef from Le Cordon Blue, London
  
  - 💥 I'm __curious__ and eager to learn new skills.	 
  
- - ⚡ Fun fact: I love cooking and fishing.
+ - ⚡ Fun fact: I travelled all over europe by road.
  
  
  ### Most Coded 👨‍💻
