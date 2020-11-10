@@ -1,4 +1,4 @@
-![Fun IMage](https://images.unsplash.com/photo-1473654729523-203e25dfda10?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
+![Fun IMage](https://images.unsplash.com/photo-1473654729523-203e25dfda10?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=50)
 
 
 ## Hi there 👋 I'm Karan 
