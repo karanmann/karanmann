@@ -1,4 +1,4 @@
-![Fun IMage](https://media-exp1.licdn.com/dms/image/C4E16AQEAn4JPI87kew/profile-displaybackgroundimage-shrink_350_1400/0?e=1610582400&v=beta&t=QrJsccwcSunOJBOwZAnN4P1yZkECsyBbQMSDDCzq_js)
+![Fun IMage](https://media-exp1.licdn.com/dms/image/C4E16AQHtyq52eBttNg/profile-displaybackgroundimage-shrink_200_800/0?e=1610582400&v=beta&t=w4DBSqtQzmw515d_XxVvQjWAaDwEsb3gVGGcy53Fi98)
 
 
 ## Hi there 👋 I'm Karan 
