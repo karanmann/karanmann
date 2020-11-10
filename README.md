@@ -7,7 +7,7 @@ Born and raised in India surrounded by MS-DOS and command lines 💻, living in 
 
 
  - 📚 I’m currently attending a __Front Development Course.__ 
- - 🌱 I’m currently learning: __HTML, CSS, JavaScript, focusing mainly in React__.	
+ - 🌱 I’m currently learning: __HTML, CSS, JavaScript, focusing mainly on React__.	
  - 🌈 I also love to learn new talents!
  - 👨‍🍳 I am a classically trained chef from Le Cordon Blue, London
  - 💥 I'm __curious__ and eager to learn new skills.	 
