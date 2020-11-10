@@ -1,4 +1,7 @@
-### Hi there 👋 I'm Karan 
+![Fun IMage](https://images.unsplash.com/photo-1473654729523-203e25dfda10?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
+
+
+## Hi there 👋 I'm Karan 
 
 Born and raised in India surrounded by MS-DOS and command lines 💻, living in Sweden. Somehow I diverged from my passion in coding. I'm a __FrontEnd developer__ in the making, computers were always a passion. Now I have jumped to the oppertunity to working with my passion.	
 
