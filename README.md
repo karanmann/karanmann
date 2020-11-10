@@ -12,5 +12,9 @@ Born and raised in India surrounded by MS-DOS and command lines 💻, living in 
  - 👨‍🍳 I am a classically trained chef from Le Cordon Blue, London
  - 💥 I'm __curious__ and eager to learn new skills.	 
  - ⚡ Fun fact: I love cooking and fishing.
+ 
+ ### Most Coded 👩🏻‍💻
+ 	 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiavazs&layout=compact)](https://github.com/karanmann/github-readme-stats)	 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanmann&layout=compact)](https://github.com/karanmann/github-readme-stats)
 <!--
 **karanmann/karanmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
