@@ -5,10 +5,8 @@
 
 Born and raised in India surrounded by MS-DOS and command lines 💻, living in Sweden. Somehow I diverged from my passion in coding. I'm a __Fullstack developer__ in the making, computers were always a passion. Now I have jumped to the oppertunity to working with my passion.	
 
-
- - 📚 I’m currently completed a __Front Development Bootcamp.__ 
  
- - 🌱 I’m currently can work with : __HTML, CSS, JavaScript, Express, Mongoose, Node.js and Redux Toolkit focusing mainly on React__.	
+ - 🌱 Tech : __HTML, CSS, JavaScript, Express, Mongoose, Node.js and Redux Toolkit focusing mainly on React__.	
  
  - 🌈 I also love to travel especially Road Trips!
  
