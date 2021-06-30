@@ -19,6 +19,6 @@ Born and raised in India surrounded by MS-DOS and command lines 💻, living in 
  
  ### Most Coded 👨‍💻
  	 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiavazs&layout=compact)](https://github.com/karanmann/github-readme-stats)	 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanmann&layout=compact)](https://github.com/karanmann/github-readme-stats)	 
 <!--
 **karanmann/karanmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
