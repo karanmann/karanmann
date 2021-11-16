@@ -15,11 +15,16 @@ Born and raised in India surrounded by MS-DOS and command lines 💻, living in 
  - ⚡ Fun fact: I travelled all over europe by road. 👨‍🍳 I am a classically trained chef from __Le Cordon Blue, London__
 
 
+
+
  ###  LETS CONNECT
  
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karanmann84/)](https://www.linkedin.com/in/karanmann84/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/karan_mann_se/)](https://www.instagram.com/karan_mann_se/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karan.mann@hyperisland.se)](mailto:karan.mann@hyperisland.se)
+
+
+
 
  ### ⚡ TECHNOLOGIES
  
@@ -37,6 +42,7 @@ Born and raised in India surrounded by MS-DOS and command lines 💻, living in 
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 
 
+ 
  
  ### 👨‍💻 MOST CODED
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanmann&show_icons=true&theme=gotham)](https://github.com/karanmann/github-readme-stats)
