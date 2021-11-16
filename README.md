@@ -19,7 +19,7 @@ Born and raised in India surrounded by MS-DOS and command lines 💻, living in 
  
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karanmann84/)](https://www.linkedin.com/in/karanmann84/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/karan_mann_se/)](https://www.instagram.com/karan_mann_se/)
-[![Gmail Badge](https://img.shields.io/badge/-e-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karan.mann@hyperisland.se)](mailto:karan.mann@hyperisland.se)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karan.mann@hyperisland.se)](mailto:karan.mann@hyperisland.se)
 
  ### ⚡ TECHNOLOGIES
  
