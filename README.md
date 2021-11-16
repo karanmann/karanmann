@@ -18,7 +18,7 @@ Born and raised in India surrounded by MS-DOS and command lines 💻, living in 
  
  
  ### Most Coded 👨‍💻
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanmann&show_icons=true&theme=gotham)](https://github.com/karanmann/github-readme-stats)
  [![Karan's github stats](https://github-readme-stats.vercel.app/api?username=karanmann&show_icons=true&theme=gotham)](https://github.com/karanmann/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanmann&show_icons=true&theme=gotham)](https://github.com/karanmann/github-readme-stats)
-<!--
-**karanmann/karanmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--**karanmann/karanmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
