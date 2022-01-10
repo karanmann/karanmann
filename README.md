@@ -48,6 +48,8 @@ Born and raised in India surrounded by MS-DOS and command lines 💻, living in 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanmann&show_icons=true&theme=gotham)](https://github.com/karanmann/github-readme-stats)
  [![Karan's github stats](https://github-readme-stats.vercel.app/api?username=karanmann&show_icons=true&theme=gotham)](https://github.com/karanmann/github-readme-stats)
  
+ <a href="https://app.daily.dev/karanmann"><img src="https://api.daily.dev/devcards/77397f8844814fe2867a15cd09e17d83.png?r=x9x" width="400" alt="Karan Mann's Dev Card"/></a>
+ 
  ### YOU ARE VISITOR NUMBER : ![Visitor Count](https://profile-counter.glitch.me/karanmann/count.svg)
 
 
