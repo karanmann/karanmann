@@ -48,6 +48,9 @@ Born and raised in India surrounded by MS-DOS and command lines 💻, living in 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanmann&show_icons=true&theme=gotham)](https://github.com/karanmann/github-readme-stats)
  [![Karan's github stats](https://github-readme-stats.vercel.app/api?username=karanmann&show_icons=true&theme=gotham)](https://github.com/karanmann/github-readme-stats)
  
+ [![Codewars Badge](https://www.codewars.com/users/karanmann/badges/large)](https://www.codewars.com/users/karanmann)
+
+ 
  ### YOU ARE VISITOR NUMBER : ![Visitor Count](https://profile-counter.glitch.me/karanmann/count.svg)
 
 
