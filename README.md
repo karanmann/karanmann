@@ -2,7 +2,6 @@
 
 
 ### <h1 align="center">Hi 👋, I'm Karan Mann</h1>
-<hr>
 <h3 align="center">A passionate frontend developer from Stockholm,Sweden</h3>
 
 
@@ -25,6 +24,7 @@ Born and raised in India surrounded by MS-DOS and command lines 💻, living in 
 - 📄 Know about my experiences [https://www.linkedin.com/in/karanmann84/](https://www.linkedin.com/in/karanmann84/)
 
 - ⚡ Fun fact **I am a trained Chef from Le Cordon Bleu, London**
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanmann&label=Profile%20views&color=0e75b6&style=flat" alt="karanmann" /> </p>
 
 
 <hr>
@@ -55,5 +55,4 @@ Born and raised in India surrounded by MS-DOS and command lines 💻, living in 
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=karanmann&theme=gotham" alt="karanmann" />
   </p>
 
-  ### VISITORS <p align="center"> <img src="https://komarev.com/ghpvc/?username=karanmann&label=Profile%20views&color=0e75b6&style=flat" alt="karanmann" /> </p>
 <!--**karanmann/karanmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
