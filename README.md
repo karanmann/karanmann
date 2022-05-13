@@ -8,8 +8,6 @@
 Born and raised in India surrounded by MS-DOS and command lines 💻, living in Sweden. Somehow I diverged from my passion in coding. I'm a __Frontend Developer__ in the making, computers were always a passion. Now I have jumped to the oppertunity to working with my passion.	
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karanmann&label=Profile%20views&color=0e75b6&style=flat" alt="karanmann" /> </p>
-
  
  - 🔭 Tech : __HTML, CSS, JavaScript, Express, Mongoose, Node.js and Redux Toolkit focusing mainly on React__.	
 
@@ -53,4 +51,6 @@ Born and raised in India surrounded by MS-DOS and command lines 💻, living in 
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=karanmann&theme=gotham" alt="karanmann" />
   </p>
 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=karanmann&label=Profile%20views&color=0e75b6&style=flat" alt="karanmann" /> </p>
 <!--**karanmann/karanmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
