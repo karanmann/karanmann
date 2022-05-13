@@ -47,10 +47,15 @@ Born and raised in India surrounded by MS-DOS and command lines 💻, living in 
  
  
  ### 👨‍💻 MOST CODED
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanmann&show_icons=true&theme=gotham)](https://github.com/karanmann/github-readme-stats)
- [![Karan's github stats](https://github-readme-stats.vercel.app/api?username=karanmann&show_icons=true&theme=gotham)](https://github.com/karanmann/github-readme-stats)
-  <p></p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanmann&theme=gotham" alt="karanmann" /></p>
+  <p>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanmann&show_icons=true&theme=gotham)](https://github.com/karanmann/github-readme-stats)
+  </p>
+  <p>
+    [![Karan's github stats](https://github-readme-stats.vercel.app/api?username=karanmann&show_icons=true&theme=gotham)](https://github.com/karanmann/github-readme-stats)
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanmann&theme=gotham" alt="karanmann" />
+  </p>
  
  [![Codewars Badge](https://www.codewars.com/users/karanmann/badges/large)](https://www.codewars.com/users/karanmann)
 
