@@ -42,8 +42,8 @@ Born and raised in India surrounded by MS-DOS and command lines 💻, living in 
 
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+BLOG-POST-LIST:START
+BLOG-POST-LIST:END
  
  
  ### 👨‍💻 MOST CODED
