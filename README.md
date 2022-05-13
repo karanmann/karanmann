@@ -52,8 +52,5 @@ Born and raised in India surrounded by MS-DOS and command lines 💻, living in 
   <p>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=karanmann&theme=gotham" alt="karanmann" />
   </p>
- 
- [![Codewars Badge](https://www.codewars.com/users/karanmann/badges/large)](https://www.codewars.com/users/karanmann)
-
 
 <!--**karanmann/karanmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
