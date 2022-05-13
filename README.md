@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=karanmann&label=Profile%20views&color=0e75b6&style=flat" alt="karanmann" /> </p>
 ![Fun IMage](./images/myGif.gif)
 
 
@@ -24,7 +25,6 @@ Born and raised in India surrounded by MS-DOS and command lines 💻, living in 
 - 📄 Know about my experiences [https://www.linkedin.com/in/karanmann84/](https://www.linkedin.com/in/karanmann84/)
 
 - ⚡ Fun fact **I am a trained Chef from Le Cordon Bleu, London**
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanmann&label=Profile%20views&color=0e75b6&style=flat" alt="karanmann" /> </p>
 
 
 <hr>
