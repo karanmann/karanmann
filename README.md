@@ -11,13 +11,13 @@ Born and raised in India surrounded by MS-DOS and command lines 💻, living in 
  
  - 🔭 Tech : __HTML, CSS, JavaScript, Express, Mongoose, Node.js and Redux Toolkit focusing mainly on React__.	
 
-- 🌱 I’m currently learning **TypeScript,**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://karanmann.se/](https://karanmann.se/)
 
 - 📝 I regularly write articles on [https://medium.com/@karan-mann](https://medium.com/@karan-mann)
 
-- 💬 Ask me about **React, JavaScript, Node, Git, Linux**
+- 💬 Ask me about **React, JavaScript, HTML, CSS, Sass, Node, Git, Linux, Phaser.js**
 
 - 📫 How to reach me **karan.mann@outlook.com**
 
@@ -29,7 +29,7 @@ Born and raised in India surrounded by MS-DOS and command lines 💻, living in 
 
 <hr>
 
- ###  LETS CONNECT
+ ###  🫶 LETS CONNECT
 <p align="left">
 <a href="https://codepen.io/@karanmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@karanmann" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/karanmann84/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karanmann84/" height="30" width="40" /></a>
