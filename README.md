@@ -1,5 +1,5 @@
 ![Fun IMage](./images/myGif.gif)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karanmann&label=Profile%20views&color=0e75b6&style=flat" alt="karanmann" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=karanmann&label=Profile%20views&color=0e75b6&style=flat" alt="karanmann" /> </p>
 
 ### <h1 align="center">Hi 👋, I'm Karan Mann</h1>
 <h3 align="center">A passionate frontend developer from Stockholm,Sweden</h3>
