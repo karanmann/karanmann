@@ -99,13 +99,13 @@
 <hr>
 
 
-  <p>
+  <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanmann&show_icons=true&theme=gotham" alt="karanmann" />
   </p>
-   <p>
+   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=karanmann&show_icons=true&theme=gotham" alt="karanmann" />
   </p>
-  <p>
+  <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanmann&theme=gotham" alt="karanmann" />
   </p>
 
