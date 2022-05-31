@@ -35,20 +35,6 @@
 
 <br/>  
 
-
-
-<hr>
-
- ###  🫶 LETS CONNECT
-<p align="left">
-<a href="https://codepen.io/@karanmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@karanmann" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/karanmann84/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karanmann84/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/frontendchef/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/frontendchef/" height="30" width="40" /></a>
-<a href="https://medium.com/@karanmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@karanmann" height="30" width="40" /></a>
-</p>
- 
-<hr>
-
  ### ⚡ TECHNOLOGIES
 <table><tr><td valign="top" width="33%">
 
@@ -91,7 +77,7 @@
 <br/>  
 
 
-## Connect with me  
+ ###  🫶 LETS CONNECT 
 <div align="center">
 <a href="https://github.com/karanmann" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -114,13 +100,13 @@
 
 
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanmann&show_icons=true&theme=gotham" alt="karanmann" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanmann&show_icons=true&theme=gotham" alt="karanmann" />
   </p>
    <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=karanmann&show_icons=true&theme=gotham" alt="karanmann" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=karanmann&show_icons=true&theme=gotham" alt="karanmann" />
   </p>
   <p>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=karanmann&theme=gotham" alt="karanmann" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanmann&theme=gotham" alt="karanmann" />
   </p>
 
 <!--**karanmann/karanmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
