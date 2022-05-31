@@ -96,7 +96,6 @@
 
 <br/>  
 
-<hr>
 
 
   <p align="center">
@@ -108,5 +107,14 @@
   <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanmann&theme=gotham" alt="karanmann" />
   </p>
+  
+  <br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=karanmann&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
 
 <!--**karanmann/karanmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
