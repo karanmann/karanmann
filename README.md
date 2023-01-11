@@ -106,9 +106,11 @@
   
   <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=karanmann&&style=flat-square" align="center" />
-</div>  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Fonnt&icon=2&color=1)](https://visitcount.itsvg.in)
   
 
 <br/>  
