@@ -66,8 +66,9 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?style=for-the-badge&logo=striapi&logoColor=white)
+![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
 ![Contentful](https://img.shields.io/badge/-Contentful-2478CC?style=for-the-badge&logo=stripe&logoColor=white)
+
 
 
 ## 📊 GITHUB STATS:
@@ -77,6 +78,7 @@
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=karanmann&theme=gotham" alt="karanmann" />
   </div>
   <br/>  
+
 
 ## VISITORS
 [![](https://visitcount.itsvg.in/api?id=Fonnt&icon=2&color=1)](https://visitcount.itsvg.in)
