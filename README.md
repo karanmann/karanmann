@@ -69,6 +69,7 @@
 ![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?style=for-the-badge&logo=striapi&logoColor=white)
 ![Contentful](https://img.shields.io/badge/-Contentful-2478CC?style=for-the-badge&logo=stripe&logoColor=white)
 
+
 ## 📊 GitHub Stats:
 
   <div align="left">
@@ -76,6 +77,7 @@
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=karanmann&theme=gotham" alt="karanmann" />
   </div>
   <br/>  
+
 
 
 ### ✍️ Random Dev Quote
