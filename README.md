@@ -79,11 +79,6 @@
   <br/>  
 
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
-
-
 [![](https://visitcount.itsvg.in/api?id=Fonnt&icon=2&color=1)](https://visitcount.itsvg.in)
   
 
