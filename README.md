@@ -71,13 +71,10 @@
 
 ## 📊 GitHub Stats:
 
-  <p align="left">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanmann&show_icons=true&theme=gotham" alt="karanmann" />
-  </p>
    <p align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=karanmann&show_icons=true&theme=gotham" alt="karanmann" />
   </p>
-  <p align="left">
+  <p align="right">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanmann&theme=gotham" alt="karanmann" />
   </p>
   
