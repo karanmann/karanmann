@@ -71,7 +71,7 @@
 
 ## 📊 GitHub Stats:
 
-  <div align="left"
+  <div align="left">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=karanmann&show_icons=true&theme=gotham" alt="karanmann" />
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=karanmann&theme=gotham" alt="karanmann" />
   </div>
