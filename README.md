@@ -79,12 +79,4 @@
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=karanmann&theme=gotham" alt="karanmann" />
 </div>
   
-  
-<br/>  
-
-## VISITORS
-[![](https://visitcount.itsvg.in/api?id=Fonnt&icon=2&color=1)](https://visitcount.itsvg.in)
-  
-
-
 <!--**karanmann/karanmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
