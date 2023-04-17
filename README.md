@@ -36,6 +36,7 @@
 </div>  
 
 
+<br/>  
 
 ## ⚡ TECHNOLOGIES
 
@@ -70,15 +71,16 @@
 ![Contentful](https://img.shields.io/badge/-Contentful-2478CC?style=for-the-badge&logo=stripe&logoColor=white)
 
 
+<br/>  
 
 ## 📊 GITHUB STATS:
-
-  <div align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=karanmann&show_icons=true&theme=gotham" alt="karanmann" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=karanmann&theme=gotham" alt="karanmann" />
-  </div>
-  <br/>  
-
+<div align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=karanmann&show_icons=true&theme=gotham" alt="karanmann" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=karanmann&theme=gotham" alt="karanmann" />
+</div>
+  
+  
+<br/>  
 
 ## VISITORS
 [![](https://visitcount.itsvg.in/api?id=Fonnt&icon=2&color=1)](https://visitcount.itsvg.in)
