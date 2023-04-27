@@ -74,11 +74,7 @@
 <br/>  
 
 ## 📊 GITHUB STATS:
-<a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center"  src="https://github-readme-stats-karanmann.vercel.app/api?username=karanmann&show_icons=true&count_private=true&theme=transparent&title_color=06BCC1&text_color=C5D8D1&icon_color=601eff&hide_border=true&border_color=F4D1AE" width="500" height="auto"/> 
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="github-readme-stats-karanmann.vercel.app/api/top-langs/?username=karanmann&layout=compact/&theme=transparent&title_color=06BCC1&text_color=C5D8D1&icon_color=C5D8D1&hide_border=true&border_color=F4D1AE" width="241" height="auto"/>
-</a>
+<img align="center" src="https://github-readme-stats-karanmann.vercel.app/api/top-langs/?username=Harry-Yates&layout=compact/&theme=transparent&title_color=601eff&text_color=601eff&icon_color=601eff&hide_border=true&border_color=faf3f1" width="241" height="auto"/>
   
 <!--**karanmann/karanmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
