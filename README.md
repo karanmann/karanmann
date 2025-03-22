@@ -12,7 +12,7 @@
 #### <div align="left">Born and raised in India surrounded by MS-DOS and command lines 💻, living in Sweden. Somehow I diverged from my passion in coding. I'm a Frontend Developer in the making, computers were always a passion. Now I have jumped to the opportunity to working with my passion.</div>  
   
 - 🌱 I’m currently learning TypeScript  
-- 👨‍💻 All of my projects are available at https://karanmann.se/  
+- 👨‍💻 All of my projects are available at https://karanmann.dev/  
 - 📝 I regularly write articles on https://medium.com/@karan-mann  
 - 💬 Ask me about React, JavaScript, HTML, CSS, Sass, Node, Git, Linux, Phaser.js  
 - 📫 How to reach me karan.mann@outlook.com  
