@@ -63,14 +63,4 @@
 ![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
 ![Contentful](https://img.shields.io/badge/-Contentful-2478CC?style=for-the-badge&logo=stripe&logoColor=white)
 
-
-<br/>  
-
-## 📊 GITHUB STATS:
-<a href="https://github.com/karanmann/github-readme-stats">
-  <img align="center"  src="https://github-readme-stats-karanmann.vercel.app/api?username=karanmann&show_icons=true&count_private=true&theme=transparent&title_color=e2e9ec&text_color=e5289e&icon_color=ef8539&hide_border=true&border_color=F4D1AE" width="500" height="auto"/> 
-</a>
-<a href="https://github.com/karanmann/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-karanmann.vercel.app/api/top-langs/?username=karanmann&layout=compact/&theme=transparent&title_color=e2e9ec&text_color=e5289e&icon_color=ef8539&hide_border=true&border_color=F4D1AE" width="241" height="auto"/>
-</a>
 <!--**karanmann/karanmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
