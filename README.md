@@ -6,7 +6,7 @@
 # **<div align="left">Hi 👋, I'm Karan Mann</div>**  
   
 
-### **<div align="left">A passionate frontend developer from Stockholm,Sweden</div>**  
+### **<div align="left">A passionate Frontend Engineer from Stockholm,Sweden</div>**  
   
 
 #### <div align="left">Born and raised in India surrounded by MS-DOS and command lines 💻, living in Sweden. Somehow I diverged from my passion in coding. I'm a Frontend Developer in the making, computers were always a passion. Now I have jumped to the opportunity to working with my passion.</div>  
