@@ -12,9 +12,8 @@
 #### <div align="left">Born and raised in India surrounded by MS-DOS and command lines 💻, living in Sweden. Somehow I diverged from my passion in coding. I'm a Frontend Developer in the making, computers were always a passion. Now I have jumped to the opportunity to working with my passion.</div>  
   
 - 🌱 I’m currently learning TypeScript  
-- 👨‍💻 All of my projects are available at https://karanmann.dev/  
-- 📝 I regularly write articles on https://medium.com/@karan-mann  
-- 💬 Ask me about React, JavaScript, HTML, CSS, Sass, Node, Git, Linux, Phaser.js  
+- 👨‍💻 All of my projects are available at https://karanmann.dev/
+- 💬 Ask me about React, Vue, Next, Nuxt, JavaScript, HTML, CSS, Sass, Node, Git, Linux, Phaser.js  
 - 📫 How to reach me karan.mann@outlook.com  
 - 📄 Know about my experiences https://www.linkedin.com/in/karanmann84/  
 - ⚡ Fun fact I am a trained Chef from Le Cordon Bleu, London  
@@ -26,9 +25,6 @@
 <div align="left">
   <a href="https://linkedin.com/in/karanmann84" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://instagram.com/frontendchef" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>
   <a href="https://medium.com/@karan-mann" target="_blank">
   <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
