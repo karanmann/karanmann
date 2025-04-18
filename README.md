@@ -3,7 +3,7 @@
 </div>  
   
 
-# **<div align="left">Hi 👋, I'm Karan Mann</div>**  
+# **<div align="left">Hi 👋, I'm Karan</div>**  
   
 
 ### **<div align="left">A passionate Frontend Engineer from Stockholm,Sweden</div>**  
